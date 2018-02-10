@@ -1,4 +1,4 @@
-# se18_s0_c3
+# Github - Sprint 0
 
 ## Getting Started
 ####TODO
