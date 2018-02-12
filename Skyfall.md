@@ -16,13 +16,12 @@ I've drowned and dreamt this moment
 So overdue I owe them
 </br>
 For this is the end
-
-
+</br>
+</br>
 I've drowned and dreamt this moment
-
+</br>
 So overdue I owe them
-
->>>>>>> v1
+</br>
 Swept away, I'm stolen
 </br>
 </br>
