@@ -1,6 +1,6 @@
 # Beyoncé - I Was Here
 
-<p style="text-align: center;">
+<p align="center">
   I wanna leave my footprints on the sands of time
   <br />
   Know there was something that, meant something that I left behind
