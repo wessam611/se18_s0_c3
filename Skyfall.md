@@ -135,8 +135,5 @@ At skyfall
 </br>
 Oh-s...
 </br>
-<<<<<<< HEAD
-I like this song
-=======
-I love this song
->>>>>>> v1
+
+I like & love this song
