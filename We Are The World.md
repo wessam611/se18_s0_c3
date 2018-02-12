@@ -1,5 +1,5 @@
 I Was Here (Maqarios) // "We Are The World"
-(performed by USA For Africa)
+I Was Here (Maqarios) // (performed by USA For Africa)
 
 There comes a time when we heed a certain call
 When the world must come together as one
