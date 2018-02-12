@@ -1,10 +1,11 @@
 # Github - Sprint 0
 
 ## Getting Started
-####TODO
+
+- We're adding files of song lyrics
 
 ## Authors
 - [Wessam Ali](https://github.com/wessam611), 37-11088
 
 ## About
-####TODO
+- [Wessam Ali](https://github.com/wessam611), added (Prayer of the refugee) and assigned (we are the world) to Maqarios
