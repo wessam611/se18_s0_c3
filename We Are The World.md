@@ -1,4 +1,4 @@
-I was here (Maqarios, Wessam) / "We Are The World"
+I was here (Maqarios, Wessam Ali) / "We Are The World"
 I was here (Wessam, Maqarios) / (performed by USA For Africa)
 
 There comes a time when we heed a certain call
