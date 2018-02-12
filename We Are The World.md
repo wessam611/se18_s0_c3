@@ -1,4 +1,4 @@
-"We Are The World"
+I Was Here (Maqarios) // "We Are The World"
 (performed by USA For Africa)
 
 There comes a time when we heed a certain call
