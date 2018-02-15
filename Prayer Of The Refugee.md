@@ -1,6 +1,6 @@
 # Rise Against - Prayer Of The
 
-<p align="center">
+<p>
   Warm yourself by the fire, son,
   <br />
   And the morning will come soon.
