@@ -1,4 +1,4 @@
-# Rise Against - Prayer Of The
+# Rise Against - Prayer Of The Refugee
 
 <p align="center">
   Warm yourself by the fire, son,
